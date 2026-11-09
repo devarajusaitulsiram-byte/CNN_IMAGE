@@ -1,0 +1,1 @@
+streamlit==1.42.2\ntensorflow-cpu==2.16.1\nnumpy==1.26.4\nPillow==10.4.0\n
